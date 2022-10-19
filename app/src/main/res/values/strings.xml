@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="play_queue">播放列表</string>
+    <string name="music_name">歌曲名字</string>
+    <string name="music_artist">演唱家</string>
+    <string name="album_cover">专辑封面</string>
+    <string name="previous">上一首</string>
+    <string name="next">下一首</string>
+    <string name="setting">设置</string>
+    <string name="search_hint">请输入需要搜索的歌曲</string>
+    <string name="search_local">搜索本地歌曲</string>
+    <string name="local_music">本地</string>
+    <string name="favor_music">喜欢</string>
+    <string name="favor_add">添加到喜欢</string>
+    <string name="favor_delete">从列表中删除</string>
+</resources>

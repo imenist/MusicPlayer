@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_action_bar">60dp</dimen>
+    <dimen name="height_tab_bar">44dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="card_radius">2dp</dimen>
+
+    <dimen name="text_title">18sp</dimen>
+    <dimen name="text_title1">17sp</dimen>
+    <dimen name="text_title2">16sp</dimen>
+    <dimen name="text_normal">14sp</dimen>
+
+
+</resources>
